@@ -1,6 +1,7 @@
 # Currency Converter in C
 
 Welcome to my simple currency converter project! This program, written in C, allows you to convert between various currencies. It's designed with failsafes, user input validation, and dynamic memory allocation, ensuring a smooth user experience.
+
 Completion Time: 2 days
 
 ## Features
