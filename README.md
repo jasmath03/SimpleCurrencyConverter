@@ -16,19 +16,19 @@ Completion Time: 2 days
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/jasmath03/simple-currency-converter.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd SimpleCurrencyConverter
+   cd simple-currency-converter
    ```
 3. Compile the program:
    ```bash
-   gcc -o SimpleCurrencyConverter main.c currency.c console_ui.c -Wall -Wextra
+   gcc -o simple-currency-converter main.c currency.c console_ui.c -Wall -Wextra
    ```
 4. Run the program:
    ```bash
-   ./SimpleCurrencyConverter
+   ./simple-currency-converter
    ```
 5. Follow the prompts to select your currency, enter an amount, and convert to another currency.
 
